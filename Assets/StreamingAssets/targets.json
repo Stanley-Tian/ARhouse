@@ -10,10 +10,35 @@
     },
     {
       "image" : "A1.jpg",
-      "name" : "A1",
-      "size" : [8.56, 5.4],
-      "uid" : "idA1",
-      "meta" : "what ever string you like."
+      "name" : "A1"
+    },
+    {
+      "image" : "A2.jpg",
+      "name" : "A2"
+    },
+    {
+      "image" : "A3.jpg",
+      "name" : "A3"
+    },
+    {
+      "image" : "A4.jpg",
+      "name" : "A4"
+    },
+    {
+      "image" : "A5.jpg",
+      "name" : "A5"
+    },
+    {
+      "image" : "B1.jpg",
+      "name" : "B1"
+    },
+    {
+      "image" : "B2.jpg",
+      "name" : "B2"
+    },
+    {
+      "image" : "D1.jpg",
+      "name" : "D1"
     }
   ]
 }
